@@ -1,0 +1,8 @@
+.env
+venv/
+env/
+ENV/
+.venv/
+.env/
+.ENV/
+.DS_Store
