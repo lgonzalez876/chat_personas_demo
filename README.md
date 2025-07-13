@@ -1,6 +1,6 @@
 # Persona Chat Demo
 
-This project is a simple demo showing how you can change the personality of the chatbot by changing the system prompt. There are three example personas already in the script, including a genetics researcher persona! Try chatting with each persona, or make your own.
+This project is a simple demo showing how you can change the personality of the chatbot by changing the system prompt. Its meant to be shared with people with zero AI coding experience, so they can get a feel for how the APIs work, and what the role of a system prompt is. There are three example personas already in the script, including a genetics researcher persona! Try chatting with each persona, or make your own.
 
 You'll quickly see that despite the jokes made about it "prompt engineering" is a real thing, the way you build your prompt can wildly affect your output. You can use prompts to give example outputs, demand a specific format, define personas, or special rules you don't want exposed to the user.
 
